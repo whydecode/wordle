@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whydecode/static/css/main.da827190.css",
+    "main.js": "/whydecode/static/js/main.dda53f39.js",
+    "static/js/787.e01666d6.chunk.js": "/whydecode/static/js/787.e01666d6.chunk.js",
+    "index.html": "/whydecode/index.html",
+    "main.da827190.css.map": "/whydecode/static/css/main.da827190.css.map",
+    "main.dda53f39.js.map": "/whydecode/static/js/main.dda53f39.js.map",
+    "787.e01666d6.chunk.js.map": "/whydecode/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da827190.css",
+    "static/js/main.dda53f39.js"
+  ]
+}
